@@ -1,0 +1,15 @@
+
+# dotenv environment variables file
+.env
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Stencil secrets
+secrets.stencil.json
+config.stencil.json
+
+# Build artifacts
+.bundle/
+dist/
